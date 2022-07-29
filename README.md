@@ -1,5 +1,5 @@
 # Air Quality in the USA
-### Group One - Joe Serigano, Prathik Chukkapalli, Adriana Machado
+### Group One - Joe Serigano, Adriana Machado, Prathik Chukkapalli
 ---
 ---
 # Table of Contents
