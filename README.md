@@ -103,7 +103,14 @@ Cleaner input data and more variables would help make predicting PM 2.5 stronger
 
 Training and testing variability across multiple years would give more variability insights to determine causes.  
 
-Other variables like proximity to industrial areas, population, feature relationships, etc. might also be useful.
+Other variables like proximity to industrial areas, population, feature relationships, etc.
+
+Using ground data versus atmostpheric data. 
+
+- For satellite data to work, we must have a clear, cloud-free sky for accurate measurements
+- Snow/ice reflectance obscures measurements
+- Satellites can only make measurements during the day, leaving out a lot of readings that should be happening at night when conditions change
+- Ground-based monitors typically take hourly measurements while satellite capability is much sparser
 
 
 ---
