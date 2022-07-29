@@ -5,7 +5,6 @@
 # Table of Contents
 #### [Problem Statement and Background ](#Problem-Statement-and-Background)
 #### [Data Gathering, Extracting, and Combining ](#Data-Gathering,-Extracting,-and-Combining)
-#### [Exploratory Data Analysis ](#Exploratory-Data-Analysis)
 #### [Modeling ](#Modeling)
 #### [Predictions ](#Predictions)
 #### [Conclusions and Recommendations ](#Conclusions-and-Recommendations)
