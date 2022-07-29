@@ -3,13 +3,13 @@
 ---
 ---
 # Table of Contents
-#### [Problem Statement and Background](#Problem-Statement-and-Background)
-#### [Data Gathering, Extracting, and Combining](#Data-Gathering,-Extracting,-and-Combining)
-#### [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-#### [Modeling](#Modeling)
-#### [Predictions](#Predictions)
-#### [Conclusions and Recommendations](#Conclusions-and-Recommendations)
-#### [Data Descriptions](#Data-Descriptions)
+#### [Problem Statement and Background ](#Problem-Statement-and-Background)
+#### [Data Gathering, Extracting, and Combining ](#Data-Gathering,-Extracting,-and-Combining)
+#### [Exploratory Data Analysis ](#Exploratory-Data-Analysis)
+#### [Modeling ](#Modeling)
+#### [Predictions ](#Predictions)
+#### [Conclusions and Recommendations ](#Conclusions-and-Recommendations)
+#### [Data Descriptions ](#Data-Descriptions)
 
 ---
 # Problem Statement and Background
@@ -132,4 +132,4 @@ Data dictionary with all primary data folders and files. Items excluded were use
 | notebooks | 04_more_model_testing | .ipynb | More models tested |
 | notebooks | 05_1_final_modeling | .ipynb | Winning model and predictions/aggregating on test dataset |
 | notebooks | 05_2_results_analysis | .ipynb | Winning model and predictions/aggregating on test dataset |# group-1-air-quality
-# group-1-air-quality
+
