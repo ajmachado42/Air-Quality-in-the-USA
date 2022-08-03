@@ -4,6 +4,7 @@ data/
 # OSX 
 .DS_Store
 Icon
+Icon?
 
 
 # Byte-compiled / optimized / DLL files
