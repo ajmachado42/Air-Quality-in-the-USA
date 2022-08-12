@@ -3,11 +3,11 @@
 ---
 ---
 # Table of Contents
-#### [Problem Statement and Background ](#Problem-Statement-and-Background)
-#### [Data Gathering, Extracting, and Combining ](#Data-Gathering,-Extracting,-and-Combining)
+#### [Problem Statement & Background ](#Problem-Statement-and-Background)
+#### [Data Gathering, Extracting, & Combining ](#Data-Gathering,-Extracting,-and-Combining)
 #### [Modeling ](#Modeling)
 #### [Predictions ](#Predictions)
-#### [Conclusions and Recommendations ](#Conclusions-and-Recommendations)
+#### [Conclusions & Recommendations ](#Conclusion-and-Recommendations)
 #### [Data Descriptions ](#Data-Descriptions)
 
 ---
